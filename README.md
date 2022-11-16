@@ -26,7 +26,7 @@
 | WiFi | Excellent |
 | Ethernet | Excellent|
 | Bluetooth | Good |
-| Thunderbolt | Not work |
+| Thunderbolt | Good |
 | HDMI | Not work |
 | CPU Optimisation | Excellent |
 | Battery | Excellent |
